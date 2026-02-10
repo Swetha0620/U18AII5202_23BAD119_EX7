@@ -2,7 +2,7 @@
 
 ---
 
-# Reducing Visual Clutter in Large-Scale Datasets
+# OVER-PLOTTING REDUCTION TECHNIQUES
 
 **Name:** Swetha P  
 **Roll Number:** 23BAD119  
