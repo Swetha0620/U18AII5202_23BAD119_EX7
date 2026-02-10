@@ -2,7 +2,7 @@
 
 ---
 
-# OVER-PLOTTING REDUCTION TECHNIQUES
+# Over-Plotting Reduction Techniques
 
 **Name:** Swetha P  
 **Roll Number:** 23BAD119  
